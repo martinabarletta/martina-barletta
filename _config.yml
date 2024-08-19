@@ -21,7 +21,7 @@ repository               : "martinabarletta/martina-barletta.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/bio-photo.png"
+  avatar           : "/images/foto_profilo.jpg"
   name             : "Martina Barletta"
   pronouns         : "she/her"  
   bio              : "Linguistics and NLP PhD Candidate"
@@ -74,7 +74,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books: #
-    title: # 'Books'
+    title:  'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
@@ -223,17 +223,19 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  #- scope:
+  #    path: ""
+  #    type: posts
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    read_time: true
+  #    comments: true
+  #    share: true
+  #    related: true
+
   # _pages
   - scope:
       path: ""
@@ -288,7 +290,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: France/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Rome # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
