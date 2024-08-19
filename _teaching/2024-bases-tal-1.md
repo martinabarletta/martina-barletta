@@ -10,11 +10,21 @@ location: "Grenoble, France"
 
 Matériels du cours Bases de TAL 2024 - Master IDL en alternance
 
-Heading 1
+03/09/2024 13h30-15h30
 ======
+Histoire du TAL
+[Diapo](link diapo depot sur git)
 
-Heading 2
+04/09/2024 13h30-15h30
 ======
+Tâche et évaluation
+[Diapo](link diapo depot sur git)
 
-Heading 3
+05/09/2024 13h30-15h30
 ======
+Métriques
+[Diapo](link diapo depot sur git)
+
+06/09/2024 13h30-16h30
+Activité en groupe
+Exposés sur une tâche en TAL - groupes de 2 étudiants max, présentations solo admises
