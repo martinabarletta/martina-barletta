@@ -12,7 +12,7 @@ title                    : "Martina Barletta / Buongiorno Mondo"
 title_separator          : "-"
 name                     : &name "Martina Barletta"
 description              : &description "Linguistics/NLP PhD ongoing"
-url                      : https://martinabarletta.github.io/martina-barletta/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://martinabarletta.github.io/martina-barletta/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "martinabarletta/martina-barletta.github.io"
 
