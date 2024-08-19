@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Linguistics and Natural Language Processing PhD candidate at Université Grenoble Alpes (France) abd at University Milan-Bicocca (Italy).
+I am a Linguistics and Natural Language Processing PhD candidate at Université Grenoble Alpes (France) and at University Milan-Bicocca (Italy).
 I work on coreference annotation and resolution in children's writing.
-======
+
+
+
+
 
