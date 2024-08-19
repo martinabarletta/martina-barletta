@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Doctorante contractuelle en Linguistique et Traitement Automatique des Langues - Université Grenoble Alpes (France), cotutelle avec Università Milano-Bicocca (Italie) 20
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
