@@ -19,7 +19,7 @@ def detect_file_encoding(file_path):
     return encoding, confidence
 
 def main():
-    tsv_file = 'talks.tsv'  # Replace with your TSV file path
+    tsv_file = 'C:/Users/matil/Documents/martina-barletta/_publications/2009-10-01-paper-title-number-1.md'  # Replace with your TSV file path
     encoding, confidence = detect_file_encoding(tsv_file)
 
     if encoding:
