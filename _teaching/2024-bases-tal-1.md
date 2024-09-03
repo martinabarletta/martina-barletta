@@ -13,6 +13,7 @@ Matériels du cours Bases de TAL 2024 - Master IDL en alternance
 03/09/2024 13h30-15h30
 ======
 Histoire du TAL
+Distribué sous licence CC BY-NC-SA
 [Diapo](/martina-barletta/files/Bases de TAL_1_2_MB.pdf)
 
 04/09/2024 13h30-15h30
