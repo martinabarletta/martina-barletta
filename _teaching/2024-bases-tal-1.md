@@ -19,7 +19,8 @@ Distribué sous licence CC BY-NC-SA
 04/09/2024 13h30-15h30
 ======
 Tâche et évaluation
-[Diapo](link diapo depot sur git)
+[Diapo](/martina-barletta/files/Bases de TAL_3_MB.pdf)
+[Texte](/martina-barletta/files/veronis.txt)
 
 05/09/2024 13h30-15h30
 ======
