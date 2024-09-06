@@ -32,6 +32,6 @@ Préparation exposés (début)
 
 06/09/2024 13h30-15h30
 ======
-Evaluation des sorties et de l'accord interannotateur
-[Diapo]
-Exposés sur une tâche en TAL
+Evaluation de l'accord interannotateur
+[Diapo](/martina-barletta/files/Bases de TAL_3_4_5_MB.pdf)
+Exposés sur une tâche + cas d'étude en TAL
