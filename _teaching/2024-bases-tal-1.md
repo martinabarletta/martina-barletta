@@ -40,9 +40,10 @@ Préparation exposés (début)
 ======
 Evaluation de l'accord interannotateur
 
+Exposés sur une tâche + cas d'étude en TAL
+
 [Diapo](/martina-barletta/files/Bases de TAL_3_4_5_MB.pdf)
 
-Exposés sur une tâche + cas d'étude en TAL
 ======
 
 Toutes les diapos en pptx
